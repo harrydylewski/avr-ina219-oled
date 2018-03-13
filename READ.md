@@ -1,3 +1,7 @@
+Purpose:
+
+Measures a potentiometer that turns on more neopixels as the voltage increases, the power is measured using a TI INA219 power monitor IC, the result is displayed on an OLED display (SSD1306)
+
 Hardware:
 
 potentiometer on PC0
