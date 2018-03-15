@@ -17,7 +17,7 @@ output:
 returns nothing
 
 detailed:
-uses neat tricks to reduce ints by powers of 10 and
+uses neat tricks to reduce ints by multiples of 10 and
 avoiding having to do comparisons by alterting between 
 subtracting positive numbers and negative numbers
  
